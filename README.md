@@ -8,7 +8,7 @@ Measured model accuracy and runtime performance, performing error analysis on mi
 
 Project was built in conjunction with instruction provided by Nachiketa Hebbar
 
-Kaggle Sample View   |   Few-shot Output
+Kaggle Sample View   |   Few-shot Prediction Output
 :-------------------------:|:-------------------------:
 <img width="363" height="447" alt="image" src="https://github.com/user-attachments/assets/72774838-2c4e-4c04-a5d9-3741839ed8ea" />  |  <img width="604" height="387" alt="image" src="https://github.com/user-attachments/assets/dc5a8da9-7709-4bc1-a093-376546bf3a08" />
 
